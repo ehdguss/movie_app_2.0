@@ -1,0 +1,14 @@
+@import "../component/reset.css";
+
+.container {
+    height: 100vh;
+    display: flex;
+}
+
+.loader {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+}

@@ -1,0 +1,11 @@
+.linkBtn {
+    width: 55px;
+    height: 25px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: rgba(45, 45, 255, 0.459);
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgba(4, 4, 255, 0.459);
+    color: white;
+    margin-right: 20px;
+}
