@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ehdguss/movie_app_2.0/static/css/main.d7beded1.chunk.css",
+    "main.js": "/ehdguss/movie_app_2.0/static/js/main.facede52.chunk.js",
+    "main.js.map": "/ehdguss/movie_app_2.0/static/js/main.facede52.chunk.js.map",
+    "runtime-main.js": "/ehdguss/movie_app_2.0/static/js/runtime-main.4d90434a.js",
+    "runtime-main.js.map": "/ehdguss/movie_app_2.0/static/js/runtime-main.4d90434a.js.map",
+    "static/js/2.521b8575.chunk.js": "/ehdguss/movie_app_2.0/static/js/2.521b8575.chunk.js",
+    "static/js/2.521b8575.chunk.js.map": "/ehdguss/movie_app_2.0/static/js/2.521b8575.chunk.js.map",
+    "index.html": "/ehdguss/movie_app_2.0/index.html",
+    "precache-manifest.949f6bb8c98c712b24d86ac87b2e4f0a.js": "/ehdguss/movie_app_2.0/precache-manifest.949f6bb8c98c712b24d86ac87b2e4f0a.js",
+    "service-worker.js": "/ehdguss/movie_app_2.0/service-worker.js",
+    "static/css/main.d7beded1.chunk.css.map": "/ehdguss/movie_app_2.0/static/css/main.d7beded1.chunk.css.map",
+    "static/js/2.521b8575.chunk.js.LICENSE.txt": "/ehdguss/movie_app_2.0/static/js/2.521b8575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d90434a.js",
+    "static/js/2.521b8575.chunk.js",
+    "static/css/main.d7beded1.chunk.css",
+    "static/js/main.facede52.chunk.js"
+  ]
+}
